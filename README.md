@@ -11,6 +11,8 @@ This class is my most favorite course I have taken at University of St. Thomas. 
 the topic being interesting and having a professor who really enjoyed what he was teaching. This 
 class introduced me to an entirely different subject and programming language, Python.
 
+### https://github.com/vinhhn/MessyBridges
+
 Another exciting part of this class was being able to visually see how your programs affected images.
 I stil remember back to the excitement I felt when my program made an image where before, wasn't 
 recognizable, to a clearer image. Or when we were all chosen to pick a topic of Computer Visualization
@@ -32,6 +34,8 @@ I made this website in hopes to one day, display my experience with Web developm
 In addition, to also have a way to keep my skills with some programming languages such as HTML, CSS,
 Javascript, and hopefully in the future, some kind of framework.
 
+### https://github.com/vinhhn/vinhhn.github.io
+
 ## Business and Trading
 The final project included in this is a project that fell outside the world of computer science and fell
 under business and trading. Financial literacy is an interest of mine and seeing how particular things 
@@ -40,3 +44,5 @@ worked in trading is what I think, aids in being more financial literate.
 By evaulating data from a Brokerage I used, I was able to gather data to learn when certain trends were
 happening. This data was purely used in speculation and was not used in benefit for financial gain, rather
 as mentioned before, financial literacy.
+
+### https://github.com/vinhhn/WebScraper
