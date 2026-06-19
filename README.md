@@ -5,8 +5,5 @@ I have a few accounts (which explains the large gaps of time...), but here you w
 ## Computer Visualization
 ### https://github.com/vinhhn/MessyBridges
 
-## Web Development
-### https://github.com/vinhhn/vinhhn.github.io
-
 ## Business and Trading
 ### https://github.com/vinhhn/WebScraper
